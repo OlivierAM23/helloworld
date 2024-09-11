@@ -7,3 +7,5 @@ print('the dog has been roasted enough')
 print('very good ending')
 
 print('infinite sadness')
+print('i ate the polar express')
+print('humgry')
