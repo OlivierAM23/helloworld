@@ -5,3 +5,5 @@ print('this dog sucks')
 print('this dog is so lame')
 print('the dog has been roasted enough')
 print('very good ending')
+
+print('infinite sadness')
